@@ -1,1 +1,17 @@
-
+[
+  {
+    "id": 1,
+    "titulo": "La importancia de leer",
+    "texto": "La lectura fortalece nuestra imaginación y nos permite conocer nuevas ideas. Leer todos los días mejora nuestra comprensión y desarrolla nuestra capacidad para aprender."
+  },
+  {
+    "id": 2,
+    "titulo": "El cuidado del planeta",
+    "texto": "Nuestro planeta necesita que todos lo cuidemos. Podemos ahorrar agua, reciclar materiales y mantener limpios los espacios de nuestra comunidad."
+  },
+  {
+    "id": 3,
+    "titulo": "La responsabilidad",
+    "texto": "Ser responsable significa cumplir nuestros compromisos. Cuando organizamos nuestro tiempo y realizamos nuestras tareas, desarrollamos buenos hábitos."
+  }
+]
