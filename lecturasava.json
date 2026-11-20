@@ -1,1 +1,52 @@
-
+[
+  {
+    "id": 1,
+    "titulo": "El tren de los tres amigos",
+    "texto": "Tres amigos viajaron temprano en un tren brillante. Durante el trayecto, Bruno practicaba trabalenguas, mientras Patricia pronunciaba palabras complicadas. Al llegar a su destino, los tres descubrieron que hablar con tranquilidad, respirar profundamente y pronunciar cada sílaba mejoraba notablemente su expresión oral."
+  },
+  {
+    "id": 2,
+    "titulo": "El reto de Ricardo",
+    "texto": "Ricardo recorría rápidamente el parque cuando recordó un reto de pronunciación. Debía repetir correctamente palabras como ferrocarril, carretera, alrededor y extraordinario. Primero habló demasiado rápido, pero después redujo la velocidad, respiró con calma y consiguió pronunciar cada palabra con claridad y seguridad."
+  },
+  {
+    "id": 3,
+    "titulo": "La biblioteca misteriosa",
+    "texto": "Pablo encontró un libro brillante en la biblioteca de su colegio. Sus páginas explicaban historias sorprendentes sobre planetas, exploradores y pueblos antiguos. Mientras leía en voz alta, descubrió que pronunciar claramente cada palabra le permitía comprender mejor las historias y transmitir emociones a quienes escuchaban."
+  },
+  {
+    "id": 4,
+    "titulo": "El gran desafío deportivo",
+    "texto": "Durante un entrenamiento, Rodrigo debía correr treinta metros, controlar el balón y realizar tres disparos precisos. Su entrenador gritaba instrucciones claras desde la tribuna. Rodrigo comprendió que escuchar atentamente, respirar correctamente y comunicarse con sus compañeros era tan importante como desarrollar fuerza y velocidad."
+  },
+  {
+    "id": 5,
+    "titulo": "La aventura del explorador",
+    "texto": "Un joven explorador cruzó caminos estrechos para descubrir una extraordinaria cascada. Durante su recorrido encontró enormes rocas, árboles frondosos y criaturas sorprendentes. Aunque estaba cansado, continuó con prudencia. Al regresar, explicó su experiencia pronunciando cada palabra claramente para que todos comprendieran su increíble aventura."
+  },
+  {
+    "id": 6,
+    "titulo": "La importancia de expresarse",
+    "texto": "Expresar nuestras ideas con claridad fortalece la confianza personal. Cuando hablamos frente a nuestros compañeros, debemos respirar profundamente, organizar nuestros pensamientos y pronunciar correctamente. No necesitamos hablar demasiado rápido. Una voz firme, pausada y expresiva permite comunicar mensajes importantes con tranquilidad y seguridad."
+  },
+  {
+    "id": 7,
+    "titulo": "El partido decisivo",
+    "texto": "Andrés recibió el balón durante los últimos minutos del campeonato. Mientras sus compañeros gritaban instrucciones, observó rápidamente la posición del arquero. Controló el balón, avanzó tres pasos y disparó con precisión. El público celebró emocionado porque el equipo había conseguido una victoria extraordinaria."
+  },
+  {
+    "id": 8,
+    "titulo": "Palabras que parecen difíciles",
+    "texto": "Pronunciar palabras complicadas requiere práctica, paciencia y perseverancia. Expresiones como responsabilidad, extraordinariamente, infraestructura y reconocimiento pueden parecer difíciles al principio. Sin embargo, cuando dividimos las palabras en sílabas, respiramos correctamente y practicamos diariamente, nuestra pronunciación mejora de manera progresiva y natural."
+  },
+  {
+    "id": 9,
+    "titulo": "La presentación de Gabriel",
+    "texto": "Gabriel preparó una presentación sobre los grandes descubrimientos científicos. Antes de comenzar, respiró profundamente y organizó sus ideas. Durante su exposición habló con claridad, respetó las pausas y pronunció cuidadosamente cada palabra. Sus compañeros comprendieron el mensaje y reconocieron su excelente preparación."
+  },
+  {
+    "id": 10,
+    "titulo": "El poder de la lectura diaria",
+    "texto": "Leer diariamente fortalece nuestra memoria, imaginación y capacidad de comunicación. Cuando pronunciamos correctamente las palabras, desarrollamos mayor seguridad para conversar y expresar opiniones. Practicar durante algunos minutos cada día permite mejorar la fluidez, controlar la respiración y comunicar nuestras ideas con precisión y confianza."
+  }
+]
